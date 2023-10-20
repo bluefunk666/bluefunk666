@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 
 ## 👀Сurrently working as a backend developer
+
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluefunk666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
